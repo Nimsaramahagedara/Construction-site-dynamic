@@ -82,6 +82,9 @@ a{
         text-align: center;
         width: 100%;
     }
+    .nav-bar .nav-links li:hover{
+        background-color: #f1f1f1;
+    }
     .fa-shop{
         visibility: hidden;
         padding: 10px 20px;
